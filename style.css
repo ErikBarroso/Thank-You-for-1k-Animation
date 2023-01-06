@@ -12,13 +12,13 @@ body{
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	background: rgb(0, 9, 44);
+	background: rgb(0, 0, 0);
 	overflow: hidden;
     
 }
 
 .text-container h1{
-	color: #fff;
+	color: #09C5FB;
 	font-size: 250px;
 	font-weight: 900;
 	text-align: center;
@@ -33,7 +33,7 @@ body{
 
 .text-container .animated-text{
 	position: relative;
-	background: rgb(255, 95, 0);
+	background: #FEE500;
 	margin-top: 15px;
 	width: 500px;
 	height: 75px;
@@ -53,7 +53,7 @@ body{
 }
 
 .text-container .animated-text h2{
-	color: #fff;
+	color: rgb(0, 0, 0);
 	font-size: 45px;
 	text-transform: uppercase;
 	text-align: center;
